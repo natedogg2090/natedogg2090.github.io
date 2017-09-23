@@ -1,0 +1,21 @@
+# Site settings
+title: My Developer Journey
+header-img: img/home-bg.png
+email: nsdietz@gmail.com
+copyright_name: natedogg2090
+description: > # this means to ignore newlines until "baseurl:"
+  From Tech Sales to Full Stack Developer
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: nate_dietz
+github_username:  natedogg2090
+learn_profile: natedogg2090
+email_username: nsdietz@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
