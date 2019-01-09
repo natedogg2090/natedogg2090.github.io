@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Project: Newborn Nap Tracker"
-date:       2019-01-09 04:18:19 +0000
+date:       2019-01-08 23:18:20 -0500
 permalink:  sinatra_project_newborn_nap_tracker
 ---
 
@@ -61,8 +61,8 @@ Finally, it came time to start adding my views, which were built in parallel wit
 		|- new
 		|- show
 	| users
-		|- layout
-		|- welcome
+		|- login
+		|- signup
 ```
 
 A functional application to add some order to a disorderly, monotonous and tiresome task. Although my son still isn't consistently sleeping through the night, we'll be better prepared to make decisions about how to eventually get him there.
